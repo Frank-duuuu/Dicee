@@ -1,6 +1,6 @@
 ![App Brewery Banner](Documentation/AppBreweryBanner.png)
 
-# Dicee
+# Dicee (Cloned from AppBrewery for learning purpose)
 
 ## Our Goal
 
