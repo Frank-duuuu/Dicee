@@ -71,7 +71,7 @@
                                                     <fontDescription key="titleFontDescription" type="system" pointSize="30"/>
                                                 </buttonConfiguration>
                                                 <connections>
-                                                    <action selector="rollButtonPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="h9j-y5-e4L"/>
+                                                    <action selector="rollButtonPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="w8U-a7-9B6"/>
                                                 </connections>
                                             </button>
                                         </subviews>

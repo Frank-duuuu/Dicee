@@ -23,8 +23,6 @@ class ViewController: UIViewController {
         
         diceImageView1.image = diceArray.randomElement()
         diceImageView2.image = diceArray.randomElement()
-
     }
-
 }
 
